@@ -8,3 +8,4 @@ To install the package:
 
 Make sure you install the `devtools` package first.
 
+I made a comment again
